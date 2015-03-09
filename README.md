@@ -2,9 +2,9 @@
 
 # Andy Newman
 
-A career change junior developer with 9 years of commercial experience in eCommerce. I've generated fantastic revenue and customer performance from websites with a emphasis on clear vision, analysis, project management and execution. I'm looking for a junior developer role in an agile, fast paced environment where I can continue to develop my code craftsmanship, see the results of my work, whilst using my previous skills to help drive the organization's commercial success.
+A career change junior developer, who after 20 years commercial experience, including 9 years in eCommerce, is ready to embark on a technical path. I've generated fantastic revenue and customer performance from websites with a emphasis on clear vision, analysis, project management and execution. I'm now looking for a junior developer role in an agile, fast paced environment where I can continue to develop my code craftsmanship, see the results of my work, whilst using my previous skills to help drive the organization's commercial success.
 
-## Skills
+## Key Skills
 
 ### Test and Behaviour Driven Development
 
