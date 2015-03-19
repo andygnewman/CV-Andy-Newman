@@ -19,9 +19,10 @@ Through my learning at Makers Academy I have learnt test and behaviour driven de
 
 ### Project Management
 
-I have had acountability for management individual projects and portfolios in an eCommerce environment from a product owner perspective.
+I have had acountability for managing individual projects and portfolios in an eCommerce environment from the perspective of product owner.
 
 - directing the work of cross functional agile teams including developers, user experience and architects
+- developed customer focused requirements / user stories 
 - structured, writen and gained agreement on business cases
 - managed stakeholders at all levels of the business, including CEO
 
@@ -30,22 +31,26 @@ I have had acountability for management individual projects and portfolios in an
 I have succeeded in my management roles by creating and executing clear vision to drive commercial performance. Specifically in an eCommerce environment, I;
 
 - achieved high revenue growth for ba.com with the adoption of retail approaches to selling travel (eg. price framing for upsell, scarcity for conversion and needs based cross selling).
-- anticipated the big-data by creating a simple user registration mechanic that significantly increased the companies success at knowing more of it's customers.
+- anticipated big-data opportunities by creating a simple user registration mechanic that significantly increased the company's success at knowing more of it's customers.
 
 ### Analysis
 
 My career started in analysis, providing insight to solve business challenges and generate sales.
 
 - Experience of using SQL, relational databases and various custom analysis packages.
-- Oversaw implementation of Adobe web analytics for ba.com and managed web analytics team and other commercial performance teams.
-- Implemented multi-variant testing approach on new developments.
-- Undertook a project to recommend a joined up approach to sales force analytics across BA and Iberia post-merger for the Commercial Directors.
+- Prototyped and implemented multi-variant testing approach on new developments.
+- Oversaw implementation of Adobe web analytics for ba.com and experience managing web analytics team and other commercial performance teams.
+- Recently undertook a project to recommend a joined up approach to sales force analytics across BA and Iberia post-merger for the Commercial Directors.
 
 ### Digital Marketing
 
 - set-up partner deals driving sales to ba.com as a fore runner to affiliate networks.
 - restructured multi-million pound European digital marketing spend to focus on cost effectiveness.
-- grew registered customer base and changed email messaging to get significantly more value from this channel.
+- grew registered customer base and changed email messaging to get significantly more value from this low-cost channel.
+
+## To find out more about my experiences and skills...
+
+[See my LinkedIn Profile](http://uk.linkedin.com/in/andygnewman/en "Andy Newman's LinkedIn Profile Page")
 
 ## Education
 
